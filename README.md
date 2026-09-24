@@ -75,6 +75,10 @@ This is an inherent bug in the vanilla game itself, NOT caused by this mod.
 ### Credits
 * Developed for Monster Hunter: World.
 
+### Support / Donation
+If you enjoy this mod, you can support me here:  
+☕ [Ko-fi (Buy me a coffee)](https://ko-fi.com/closnow)
+
 ---
 
 <a name="japanese"></a>
@@ -147,3 +151,7 @@ range=800.0
 
 ### クレジット
 * Developed for Monster Hunter: World.
+
+### 寄付・サポート
+もしこのMODを気に入っていただけましたら、こちらからサポートしていただけると励みになります：  
+☕ [Ko-fi (Buy me a coffee)](https://ko-fi.com/closnow)
